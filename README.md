@@ -6,7 +6,7 @@ This project analyzes household energy consumption using regression techniques.
 ## Files Included
 - Dataset used for analysis
 - Assignment questions
-- Code (Stata)
+- Code (R)
 - Final report
 
 ## Tools Used
