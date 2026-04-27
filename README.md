@@ -1,15 +1,18 @@
-Econometrics-Assignment-1/
-│
-├── data/
-│   └── dataset.csv
-│
-├── questions/
-│   └── assignment_questions.pdf
-│
-├── code/
-│   └── analysis.do   (Stata) / analysis.py / analysis.R
-│
-├── results/
-│   └── output.pdf / graphs.png
-│
-└── README.md
+# Econometrics Assignment
+
+## Overview
+This project analyzes household energy consumption using regression techniques.
+
+## Files Included
+- Dataset used for analysis
+- Assignment questions
+- Code (Stata)
+- Final report
+
+## Tools Used
+- Stata
+- MS Excel
+
+## Key Findings
+- MPCE positively affects energy consumption
+- Household size has a significant impact
